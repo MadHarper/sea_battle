@@ -1,0 +1,141 @@
+﻿body > * {
+	width: 900px;
+	height: 900px;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+
+.top {
+	text-align: center;
+	height: 100px;
+	width: 780px;
+	margin: 0 auto;
+	border: 2px solid black;
+	padding: 60px;
+}
+#centerInTop{
+
+}
+
+
+#wrapper{
+	overflow: hidden;
+}
+
+#center {
+	text-align: center;
+	height: 400px;
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 55px;
+	background-color: gray;
+	float: left;
+}
+
+#middle{
+	text-align: center;
+	height: 400px;
+	width: 80px;
+
+	float: left;
+}
+
+#left {
+	text-align: center;
+	height: 400px;
+	width: 50px;
+	padding: 30px;
+
+	float: left;
+}
+
+#right {
+	text-align: center;
+	height: 400px;
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 55px;
+	background-color: gray;
+	float: right;
+}
+
+#ultra_left {
+	text-align: center;
+	height: 400px;
+	width: 50px;
+	padding: 30px;
+
+	float: right;
+}
+
+#footer{
+	text-align: center;
+	height: 400px;
+	clear: right;
+}
+
+#prosloyka{
+	height: 300px;
+	width: 500px;
+	background-color: darkslateblue;
+
+}
+.zero {
+	 height: 28px;
+	 width: 28px;
+	 border: 1px solid black;
+	 background-color: steelblue;
+	 float: left;
+}
+
+.ship {
+	height: 28px;
+	width: 28px;
+	border: 1px solid black;
+	/*background-color: lightgoldenrodyellow;*/
+	float: left;
+	background-image: url("../img/cell2.jpg");
+}
+
+.strike {
+	height: 28px;
+	width: 28px;
+	border: 1px solid black;
+	background-color: blueviolet;
+	float: left;
+}
+
+.kill{
+	height: 28px;
+	width: 28px;
+	border: 1px solid black;
+	/*background-color: darkred;*/
+	float: left;
+	background-image: url("../img/kill2.jpg");
+}
+
+.hurt{
+	height: 28px;
+	width: 28px;
+	border: 1px solid black;
+	/*background-color: orangered;*/
+	float: left;
+	background-image: url("../img/hurt2.jpg");
+}
+
+.bulk{
+	height: 28px;
+	width: 28px;
+	border: 1px solid black;
+	/*background-color: darkslateblue;*/
+	float: left;
+	background-image: url("../img/bulk.jpg");
+}
+
+.hid{
+	visibility: hidden;
+}
+
+.show{
+
+}
